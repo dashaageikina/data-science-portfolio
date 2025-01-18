@@ -1,2 +1,2 @@
 # data-science-portfolio
-This is portfolio of my research projects showcasing data science
+This is a portfolio of research projects showcasing my expertise in data science.
