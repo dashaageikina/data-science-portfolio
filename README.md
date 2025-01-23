@@ -1,6 +1,6 @@
 # Research and Data Science Portfolio - Dasha Ageikina*
 
-*Dasha is my preferred name, but my legal first name is Daria.
+*Dasha is my preferred name but my legal first name is Daria.
 
 ## Research papers (work in progress)
 
