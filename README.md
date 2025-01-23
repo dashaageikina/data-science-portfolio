@@ -23,7 +23,7 @@ Coauthor: Jamie Hansen-Lewis
 
 ## Skills
  - **Tech**: Python, R, SQL, Stata, Google Earth Pro
- - **Frameworks**: Statistics, Econometrics (Causal Inference), Machine Learning,
+ - **Frameworks**: Statistics, Econometrics (Causal Inference), Machine Learning
 
 
 
