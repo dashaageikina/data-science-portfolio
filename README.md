@@ -15,9 +15,16 @@ Coauthor: Jamie Hansen-Lewis
 
 **[Geospatial data](https://github.com/dashaageikina/geospatial-data)**
 
+**Data scraping**
+
 **[Text mining and NLP](https://github.com/dashaageikina/text-mining)**
 
 **[Data visualisation](https://github.com/dashaageikina/data-visualization)**
+
+## Skills
+ - **Tech**: Python, R, SQL, Stata, Google Earth Pro
+ - **Frameworks**: Statistics, Econometrics (Causal Inference), Machine Learning,
+
 
 
 
