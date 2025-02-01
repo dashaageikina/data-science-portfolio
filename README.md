@@ -1,4 +1,4 @@
-# Research and Data Science Portfolio - Dasha Ageikina*
+# Research and Data Science Portfolio by Dasha Ageikina*
 
 ## Research papers
 
