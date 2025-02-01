@@ -1,7 +1,5 @@
 # Research and Data Science Portfolio - Dasha Ageikina*
 
-*Dasha is my preferred name but my legal first name is Daria.
-
 ## Research papers
 
 **[The Effects of Sociopolitical Pressure on Wildfire Suppression Efforts](https://github.com/dashaageikina/job-market-paper-data-pipeline)**
@@ -23,6 +21,8 @@
 ## Skills
  - **Tech**: Python, R, SQL, Stata, Google Earth Pro
  - **Frameworks**: Statistics, Econometrics (Causal Inference), Machine Learning
+
+**Note: My legal first name is Daria, which I use for official matters and publications.*
 
 
 
