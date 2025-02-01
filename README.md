@@ -2,14 +2,14 @@
 
 *Dasha is my preferred name but my legal first name is Daria.
 
-## Research papers (work in progress)
+## Research papers
 
 **[The Effects of Sociopolitical Pressure on Wildfire Suppression Efforts](https://github.com/dashaageikina/job-market-paper-data-pipeline)**
 
-**The Effects of Wildfire Smoke on Infant Mortality**
+**[The Effects of Wildfire Smoke on Infant Mortality](https://dashaageikina.notion.site/Exposure-of-U-S-Counties-to-Wildfire-Smoke-in-2006-2017-and-its-Effects-on-Infant-Mortality-188040298a0180deb72cf161bcbac05b)**
 Coauthor: Jamie Hansen-Lewis
 
-**Adverse Selection in California's Compliance Offset Program**
+**[Adverse Selection in California's Compliance Offset Program](https://dashaageikina.notion.site/Adverse-Selection-in-California-s-Compliance-Offset-Program-Does-the-Program-Sequester-Carbon-in-Fo-188040298a0180cc8fe7c54fdb9e86ca)**
 
 ## Data Science portfolio
 
