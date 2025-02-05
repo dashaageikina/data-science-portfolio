@@ -8,9 +8,9 @@
 
 **[The Effects of Wildfire Smoke on Infant Mortality](https://dashaageikina.notion.site/Exposure-of-U-S-Counties-to-Wildfire-Smoke-in-2006-2017-and-its-Effects-on-Infant-Mortality-188040298a0180deb72cf161bcbac05b)** (Coauthor: [Jamie Hansen-Lewis](https://are.ucdavis.edu/people/faculty/jamie-hansen-lewis/))
 
-## Mini research projects
+## Research projects
 
-**Replication of the results from the paper on energy building codes by Arik Levinson, with Junjun Dong**
+**[Replication of the results from the paper on energy building codes by Arik Levinson, with Junjun Dong](https://www.dropbox.com/scl/fi/vk4oc8g309a15dt7twz4o/levinson_replication.pdf?rlkey=o3o3epry5jgbb2mwl957frfqd&st=0l516zok&dl=0)**
 
 **Spatial market integration analysis in Russia: cheese market before and after 2014 embargo**
 
