@@ -12,6 +12,7 @@
 
 **Replication of the results from the paper on energy building codes by Arik Levinson, with Junjun Dong**
 
+**Cointegration analysis of cheese markets in Russia before and after 2014 embargo**
 
 ## Data Science skills portfolio
 
