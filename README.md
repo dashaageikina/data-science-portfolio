@@ -10,7 +10,7 @@
 
 ## Research projects
 
-**Replication of the results from the energy paper by Arik Levinson, with Junjun Dong**
+**Replication of the results from the paper on energy building codes by Arik Levinson, with Junjun Dong**
 
 
 ## Data Science skills portfolio
