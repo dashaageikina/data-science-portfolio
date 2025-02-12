@@ -23,7 +23,7 @@
 
 **Data scraping**
 
-**[Text mining and NLP](https://github.com/dashaageikina/text-mining)**
+**Text mining and NLP**
 
 **[Data visualisation](https://github.com/dashaageikina/data-visualization)**
 
