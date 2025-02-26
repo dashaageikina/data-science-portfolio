@@ -17,7 +17,7 @@
 ## Data Science skills portfolio
 
 - **Tech**: Python, R, SQL, Stata, Google Earth Pro
-- **Frameworks**: Statistics, Causal Inference/Econometrics (Cross-sectional, Panel, Time-series), Machine Learning
+- **Frameworks**: Statistics, Quasi-Experimental Causal Inference/Econometrics (Cross-sectional, Panel, Time-series), Machine Learning
 
 **[Geospatial data](https://github.com/dashaageikina/geospatial-data)**
 
