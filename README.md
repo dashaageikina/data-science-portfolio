@@ -14,6 +14,10 @@
 
 **Spatial market integration analysis in Russia: cheese market before and after 2014 embargo**
 
+## Data Science work projects
+
+**Python tutorials for learners**
+
 ## Data Science skills portfolio
 
 - **Tech**: Python, R, SQL, Stata, Google Earth Pro
