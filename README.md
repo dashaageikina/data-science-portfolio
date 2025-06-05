@@ -16,7 +16,7 @@
 
 ## Data Science work projects
 
-**Python tutorials for learners**
+**[Python tutorials](https://github.com/dashaageikina/python-tutorials)**
 
 ## Data Science skills portfolio
 
